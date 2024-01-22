@@ -27,6 +27,7 @@ public class first extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("first");
+		System.out.println("second");
 	}
 
 	/**
